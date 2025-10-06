@@ -674,7 +674,7 @@ Our system is **intentionally conservative** - it's better to flag a healthy can
 #### **Step 1: Clone or Download the Project**
 ```bash
 # If using git
-git clone <your-repository-url>
+git clone https://github.com/karthick0502/CanisterDamageDetection.git
 cd CanisterDamageDetection
 
 # Or download and extract the ZIP file, then navigate to the folder
